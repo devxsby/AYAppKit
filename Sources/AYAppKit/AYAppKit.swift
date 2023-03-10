@@ -1,5 +1,5 @@
 public struct AYAppKit {
-    public private(set) var text = "Hello, World!"
+    public private(set) var text = "Hello, World! My name is Avery Yoon :)"
 
     public init() {
     }
